@@ -1,0 +1,3 @@
+npm init -y
+npm install three vite
+npm run dev
